@@ -1,0 +1,3 @@
+E:/CLionProjects/SKI-safari/src/cmake-build-debug/CMakeFiles/SKI.dir
+E:/CLionProjects/SKI-safari/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/CLionProjects/SKI-safari/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir

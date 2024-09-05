@@ -1,0 +1,16 @@
+# ninja log v5
+4	149	7472250030760099	build.ninja	fb311cc179dd42d3
+34	219	6959297363246060	CMakeFiles/SKI.dir/src/objectives/SNC.c.obj	d0e97652d18baedb
+1	1331	6964105072441254	CMakeFiles/SKI.dir/SKI.c.obj	7cdc156fdb9f8359
+19	220	6959297363246060	CMakeFiles/SKI.dir/src/objectives/PLR.c.obj	e53a4efd4297ee2a
+26	536	6959297365992677	CMakeFiles/SKI.dir/src/objectives/DEC.c.obj	1d4051dfefff55f2
+12	637	6959297366516591	CMakeFiles/SKI.dir/src/objectives/OBS.c.obj	5165d8de6a410590
+7	637	6959297366526641	CMakeFiles/SKI.dir/src/objectives/EQU.c.obj	38cfe173ef4b6638
+1332	1671	6964105075804333	SKI.exe	b0cc856c265d9c85
+3	269	7472250030760099	build.ninja	1078346d79857d72
+45	179	7472250032710121	CMakeFiles/SKI.dir/src/objects/PLR.c.obj	42f4dfb7d9325a91
+78	322	7472250033087255	CMakeFiles/SKI.dir/src/objects/SNC.c.obj	4abae283e1c56f90
+29	698	7472250037485636	CMakeFiles/SKI.dir/src/objects/OBS.c.obj	977a01771e86b84e
+60	717	7472250038100706	CMakeFiles/SKI.dir/src/objects/DEC.c.obj	1e62f2d3d647a45a
+15	718	7472250038100706	CMakeFiles/SKI.dir/src/objects/EQU.c.obj	a2c55a03d777f81b
+2	1076	7472250041687714	CMakeFiles/SKI.dir/SKI.c.obj	722025e028b023a1

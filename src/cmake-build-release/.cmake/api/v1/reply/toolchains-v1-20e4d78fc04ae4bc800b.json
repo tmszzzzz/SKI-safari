@@ -1,0 +1,77 @@
+{
+	"kind" : "toolchains",
+	"toolchains" : 
+	[
+		{
+			"compiler" : 
+			{
+				"id" : "GNU",
+				"implicit" : 
+				{
+					"includeDirectories" : 
+					[
+						"E:/EdgeDownload/SDL2-devel-2.26.0-mingw/SDL2-2.26.0/x86_64-w64-mingw32/include",
+						"C:/Users/tmsz/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
+						"C:/Users/tmsz/AppData/Local/Programs/CLion/bin/mingw/include",
+						"C:/Users/tmsz/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
+						"C:/Users/tmsz/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/include"
+					],
+					"linkDirectories" : 
+					[
+						"C:/Users/tmsz/AppData/Local/Programs/CLion/bin/mingw/lib/gcc/x86_64-w64-mingw32/13.1.0",
+						"C:/Users/tmsz/AppData/Local/Programs/CLion/bin/mingw/lib/gcc",
+						"E:/EdgeDownload/SDL2-devel-2.26.0-mingw/SDL2-2.26.0/x86_64-w64-mingw32/lib",
+						"C:/Users/tmsz/AppData/Local/Programs/CLion/bin/mingw/x86_64-w64-mingw32/lib",
+						"C:/Users/tmsz/AppData/Local/Programs/CLion/bin/mingw/lib"
+					],
+					"linkFrameworkDirectories" : [],
+					"linkLibraries" : 
+					[
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32",
+						"pthread",
+						"advapi32",
+						"shell32",
+						"user32",
+						"kernel32",
+						"iconv",
+						"mingw32",
+						"gcc",
+						"moldname",
+						"mingwex",
+						"kernel32"
+					]
+				},
+				"path" : "C:/Users/tmsz/AppData/Local/Programs/CLion/bin/mingw/bin/gcc.exe",
+				"version" : "13.1.0"
+			},
+			"language" : "C",
+			"sourceFileExtensions" : 
+			[
+				"c",
+				"m"
+			]
+		},
+		{
+			"compiler" : 
+			{
+				"implicit" : {},
+				"path" : "C:/Users/tmsz/AppData/Local/Programs/CLion/bin/mingw/bin/windres.exe"
+			},
+			"language" : "RC",
+			"sourceFileExtensions" : 
+			[
+				"rc",
+				"RC"
+			]
+		}
+	],
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

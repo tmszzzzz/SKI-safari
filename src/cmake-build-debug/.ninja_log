@@ -1,0 +1,9 @@
+# ninja log v5
+2	370	6959291507938293	CMakeFiles/SKI.dir/SKI.c.obj	d8b4f8a26e27d39c
+0	116	7472248273229383	build.ninja	2eab6a256edacd59
+8	83	6959133804636549	CMakeFiles/SKI.dir/src/objectives/SNC.c.obj	442ec4a329af627
+370	449	6959291508711836	SKI.exe	4b89f4bb15318fbc
+7	292	6958429621986244	CMakeFiles/SKI.dir/src/objectives/EQU.c.obj	be3c438f8ab89f5d
+11	1306	6953211977517289	CMakeFiles/SKI.dir/src/objectives/OBS.c.obj	d778da9a19453fc2
+7	73	6951929138906391	CMakeFiles/SKI.dir/src/objectives/PLR.c.obj	4b6abd6f278f0edc
+9	332	6953263374381115	CMakeFiles/SKI.dir/src/objectives/DEC.c.obj	865d16a0841530fe
